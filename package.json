@@ -1,0 +1,33 @@
+{
+  "name": "mindgaze-doublescroll",
+  "version": "1.0.1",
+  "description": "Enable double scroll bars for any Angular 4+ element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreiflaviusivan/mindgaze-doublescroll.git"
+  },
+  "keywords": [
+    "double",
+    "scroll",
+    "bar",
+    "angular4",
+    "angular5"
+  ],
+  "author": "Andrei-Flavius Ivan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/andreiflaviusivan/mindgaze-doublescroll/issues"
+  },
+  "homepage": "https://github.com/andreiflaviusivan/mindgaze-doublescroll#readme",
+  "dependencies": {
+    "@angular/common": "^5.0.2",
+    "@angular/core": "^5.0.2",
+    "jquery": "^3.2.1",
+    "rxjs": "^5.5.0",
+    "zone.js": "^0.8.4"
+  }
+}
