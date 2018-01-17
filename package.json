@@ -1,6 +1,6 @@
 {
   "name": "mindgaze-doublescroll",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Enable double scroll bars for any Angular 4+ element",
   "main": "index.js",
   "scripts": {
